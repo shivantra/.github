@@ -1,6 +1,6 @@
 # Shivantra
 
-![Shivantra Logo](https://shivantra.com/images/hero.png)
+![Shivantra Logo](https://shivantra.com/assets/images/hero.png)
 
 ## Company
 
